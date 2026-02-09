@@ -7,8 +7,8 @@ Hi! I’m **Rajeshwari**, a Full Stack Developer with knowledge in both frontend
 ## 💻 Skills
 - **Frontend:** HTML, CSS, JavaScript, React (basic)
 - **Backend:** Python, Django, Flask
-- **Database:** MySQL, SQLite
-- **Tools & Platforms:** Git, GitHub, VS Code, Postman
+- **Database:** MySQL, SQL
+- **Tools & Platforms:** Git, GitHub, VS Code
 
 ---
 
